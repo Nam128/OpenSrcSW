@@ -14,7 +14,7 @@ import org.json.simple.JSONArray;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 
-public class main {
+public class main { 
 	private static void main(String[] args) throws ParseException {
 	     String clientId = "LTBZhSmiGtrvjVgWk98G"; //애플리케이션 클라이언트 아이디값"
 	     String clientSecret = "dm4RQu0OWV"; //애플리케이션 클라이언트 시크릿값"
